@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(243, 246, 246);
+    margin: 0;
+    border: 30px outset  rgb(236, 221, 12);
+    padding: 25px;
+}
+ul{
+
+    justify-content: space-evenly;
+    display:flex;
+    margin: -58px 20px 205px 700px;
+    padding: 10px 25px 5px 85px;
+    font-size: 22px;
+    text-align: center;
+    overflow: hidden;
+
+
+}
+#m{
+    margin-top: 100px;
+    margin-left: -70px;
+    margin-bottom: -70px;
+}
+#u{
+    color: brown;
+    margin-top: -30px;
+}
+h4{
+    color: rgb(234, 151, 26);
+    font-size:30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -70px;
+    margin-left: -70px;
+}
+h5{
+    color: rgb(29, 28, 27);
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: -70px;
+}
+p{
+    color: rgb(27, 26, 25);
+    font-size: 18px;
+    margin-top: -30px;
+    margin-left: -70px;
+    margin-bottom: -80px;
+    margin-top:10px ;
+}
+.b{
+    border: 2px solid black ;
+    align-items: center;
+    margin:-10px 850px;
+    padding:10px;
+    background-color: rgb(152, 222, 23);
+}
+.c{
+
+
+    margin: 50px 0px -20px 0px;
+    border-radius: 5px;
+    margin-right: 500px;
+    padding:80px;
+}
+h2{
+    color:rgb(234, 151, 26);
+    padding-top:-20px;
+}
+.d{
+
+    margin-top: 20px;
+    padding: 58px;
+    margin-right: 1300px;
+}
+.d,th,td{
+
+    border-radius: 5px;
+    padding: 10px ;
+}
+h3{
+    color:rgb(234, 151, 26);
+    font-weight: bolder;
+}
+.e{
+
+    margin-top: -1px;
+    border-radius: 5px;
+    margin-right: 500px;
+    padding-top: 2px;
+    padding-left: 5px;
+}
+.f{
+
+    margin-top:-670px;
+    border-radius: 35px;
+    padding: 30px;
+    margin-left: 1500px;
+    height: 530px;
+}
+.i{
+    color: rgb(234, 151, 26);
+    margin-left: 80px;
+    margin-top: 5px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.e,tr{
+    border-radius: 5px;
+    padding: 10px ;
+}
+.o{
+    margin-top: 100px;
+    margin-left: 45px;
+}
+.y{
+    color: rgb(234, 151, 26);
+    margin-left: 80px;
+    margin-top: 15px;
+    font-size: 22px;
+    font-weight: bolder;
+}
+.k{
+    margin-top: 100px;
+    margin-left:80px;
+}
+.p{
+
+    border-radius: 5px;
+    margin-right:1300px ;
+    margin-top: 75px;
+    padding: 50px;
+}
+.r{
+    color: rgb(234, 151, 26);
+    margin-left: -35px;
+    margin-top: -30px;
+    font-size: 22px;
+    font-weight: bolder;
+
+}
+.q{
+    margin-top: 90px;
+    margin-left: -45px;
+
+    background-color: azure;
+}
+th,td{
+    background-color:antiquewhite;
+}
